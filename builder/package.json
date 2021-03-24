@@ -5,11 +5,7 @@
   "scripts": {
     "start": "nodemon ./bin/www",
     "build": "npx webpack -w",
-<<<<<<< HEAD
-    "build:css" : "tailwindcss build src/tailwindImport.css -o src/tailwind.css"
-=======
     "build:css": "tailwindcss build src/tailwindImport.css -o src/tailwind.css"
->>>>>>> 3fc5eb6810eaffd00ce0605410868f6c19214066
   },
   "dependencies": {
     "autoprefixer": "^10.2.5",
