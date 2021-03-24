@@ -4,8 +4,18 @@
     font-family: dungenmo;
     src: url("./neodgm.ttf");
 } */
+<<<<<<< HEAD
 * {
     border-radius: 10px;
+=======
+.wrapper {
+    min-width: 80rem;
+}
+
+*{
+    border-radius: 10px;
+    text-align: center;
+>>>>>>> 3fc5eb6810eaffd00ce0605410868f6c19214066
 }
 
 /* body{
